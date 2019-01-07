@@ -4,12 +4,22 @@ a PMMP with many Functions
 
 ## Functions Planned
 
-[ ] Ban API (with PlayerCloud)
-[ ] SoupFFA
-[ ] KnockbackFFA
-[ ] Global User Stats
-[ ] Server Stats
-[ ] More Command like (kill, version etc..)
+####[ ] Ban API (with PlayerCloud)
+
+
+####[ ] SoupFFA
+
+
+####[ ] KnockbackFFA
+
+
+####[ ] Global User Stats
+
+
+####[ ] Server Stats
+
+
+####[ ] More Command like (kill, version etc..)
 
 # Creator
 
