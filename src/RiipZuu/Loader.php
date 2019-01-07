@@ -36,10 +36,7 @@ class Loader extends PluginBase {
 	public function onEnable()
 	{
 
-		for ($i = 1; $i <= 10; $i++) {
-			echo $i;
-		}
-
+	
 		self::$instance = $this;
 
 		$this->getLogger()->info("§aMultiPlug activated");
