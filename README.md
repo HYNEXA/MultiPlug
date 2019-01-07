@@ -1,5 +1,5 @@
 # MultiPlug
-a PMMP with many Functions
+a PMMP API with many Functions
 
 
 ## Functions Planned
